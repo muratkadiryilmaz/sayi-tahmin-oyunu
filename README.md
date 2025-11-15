@@ -60,3 +60,4 @@ gcc sayi_tahmin_oyunu.c -o sayi_tahmin_oyunu
 
 👨‍💻 Developed by: Murat Kadir Yılmaz
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
+🔗 Linkedln: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/
