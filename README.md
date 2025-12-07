@@ -1,7 +1,7 @@
 # 🎯 Sayı Tahmin Oyunu (C)
 
 📅 **Tarih:** 15.11.2025  
-🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi--tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi--tahmin-oyunu)  
+🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi-tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi-tahmin-oyunu)  
 🔗 **Linkledn:** https://www.linkedin.com/feed/update/urn:li:activity:7395573304008331264/  
 📄 **C dilinde yazılmış basit bir sayı tahmin oyunu projesi.**
 
@@ -31,7 +31,7 @@
 ## 🎯 Number Guessing Game (C)
 
 📅 **Date:** November 15, 2025  
-🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi--tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi--tahmin-oyunu)  
+🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi-tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi-tahmin-oyunu)  
 🔗 **Linkledn:** https://www.linkedin.com/feed/update/urn:li:activity:7395573304008331264/  
 📄 **A simple number guessing game project written in the C programming language.**
 
